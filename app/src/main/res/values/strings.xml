@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SharedPrefCRUD</string>
+    <string name="put_id">Put Id</string>
+    <string name="put_name">Put Name</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last name</string>
+    <string name="put_skype">Put skype</string>
+    <string name="put_email">Put email</string>
+    <string name="put_phone_number">Put phone number</string>
+    <string name="put_last_name">Put last name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="email">Email</string>
+    <string name="skype">Skype</string>
+    <string name="action_settings">settings</string>
+</resources>
